@@ -1,0 +1,17 @@
+*NOTWORKING*
+*secret*
+*pycache*
+*bin*
+*obj*
+scraper
+*.jpg
+!demo.jpg
+*.png
+*.jpeg
+old
+*env*
+*improvements*
+*scicap_data*
+*try*
+model_test
+*.mp4

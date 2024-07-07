@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Image Description Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Generate Image Descriptions</h1>
+    <form method="POST" action="/describe_image">
+        <input type="text" name="image_url" placeholder="Enter image URL here" required>
+        <button type="submit">Describe Image</button>
+    </form>
+    {% if description %}
+        <h2>Description</h2>
+        <p>{{ description }}</p>
+    {% elif error %}
+        <p style="color: red;">Error: {{ error }}</p>
+    {% endif %}
+</body>
+</html>
