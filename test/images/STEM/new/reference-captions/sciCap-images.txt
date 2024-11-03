@@ -1,0 +1,18 @@
+Picture 2007.09948v2-Figure13:
+average performance and NUM-TK confidence intervals ( over NUM-TK independent training sessions ) . training is performed in an environment whose objective is to deliver \ud835\udc43\ud835\udc61\ud835\udc5f sdus , but performance is evaluated in an environment whose objective is to deliver \ud835\udc43\ud835\udc52\ud835\udc63\ud835\udc4e\ud835\udc59 sdus . the environment was configured with |\ud835\udc48 | = NUM-TK , \ud835\udc35\ud835\udc3f\ud835\udc38\ud835\udc45 = NUM-TK , \ud835\udc61\ud835\udc5a\ud835\udc4e\ud835\udc65 = NUM-TK and an empty start buffer . mac learners were trained with a learning rate of NUM-TK and an internal memory length of \ud835\udc41 = NUM-TK for \ud835\udc41\ud835\udc61\ud835\udc5f = NUM-TK \u2248 NUM-TK episodes . \ud835\udf16-greedy exploration with \ud835\udf16 decay from NUM-TK to NUM-TK was used .
+
+Picture 2008.02400v1-Figure8:
+the degradation of network due to analog device shift ( \ud835\udf41\ud835\udc6b\ud835\udc7a ) : wide resnet-2 model for cifar-100 is trained using optimized \ud835\udc6b and \ud835\udc73 factors and tested .
+
+Picture 1503.05526v1-Figure13-1:
+data set a naive bayes classifier : classification error for each class on the training set ( solid lines ) and on the test set ( dotted lines , average accuracies only ) .
+
+
+Picture 1807.03337v2-Figure7-1:
+end-to-end delay versus \u03b1 .
+
+Picture 1807.06391v1-Figure6-1:
+optimal tempo curve and corresponding optimal actions at for a continuous agent ( piece : j. s. bach , bwv994 ) . the at would be the target values for training an agent with supervised , feed-forward regression .
+
+Picture 1010.2692v5-Figure1-1:
+comparison of all proposed schemes forl=2 cells , ( a ) scenario a ( b ) scenario b : users are placed at 0.9 km from bs .
