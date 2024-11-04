@@ -1,0 +1,37 @@
+
+File: 1010.2692v5-Figure1-1.png
+Description: Network Throughput vs. Number of Users
+This image contains two line charts side-by-side, each plotting the "Average Network Throughput in bps/Hz per cell" on the y-axis against the "Number of Users" on the x-axis.
+The lines represent different configurations (e.g., Upper Bound, Centralized with and without Power Control, Distributed, Lower Bound, and Single Cell Allocations).
+The charts illustrate that the throughput generally increases with the number of users but varies significantly by configuration, with "Upper Bound" showing the highest throughput and "Lower Bound" the lowest.
+
+File: 1503.05526v1-Figure13-1.png
+Description: Classification Error vs. Number of Indicators
+This line graph shows "Classification Error" on the y-axis and "Number of Indicators" on the x-axis.
+Four lines represent different anomaly scenarios: "without anomaly," "variance shift," "mean shift," and "trend modification."
+The classification error is highest at low indicator numbers but decreases as indicators increase. The error levels off for each scenario, with "without anomaly" having the lowest error rate and "trend modification" showing the most fluctuation.
+
+File: 1807.03337v2-Figure7-1.png
+Description: Expected Delay vs. Alpha
+This plot has "Expected Delay D" on the y-axis and the variable "Alpha (α)" on the x-axis.
+Three lines are displayed, representing "No-redundancy," "Greedy algorithm," and "α-greedy algorithm."
+The "No-redundancy" line is flat at a high delay value, while the "Greedy algorithm" and "α-greedy algorithm" lines decrease as Alpha increases, indicating lower delays with these methods as Alpha increases.
+
+File: 1807.06391v1-Figure6-1.png
+Description: Optimal Speed and Action over Time
+This figure includes two subplots stacked vertically.
+The top plot shows "optimal speed" over "time steps (t)," with a line fluctuating across various speeds at each time step.
+The bottom plot shows "optimal action (A_t)" over the same time steps, with values fluctuating around a central line.
+Both plots suggest periodic adjustments in speed and action over time, likely depicting an optimization or control process.
+
+File: 2007.09948v2-Figure13-1.png
+Description: Performance vs. Number of Transmissions
+This line chart plots "Performance (R)" on the y-axis against "Number of transmitted MAC SDUs during evaluation" on the x-axis.
+Two colored lines represent different power transmission levels, labeled as "Ptr = 1" and "Ptr = 2," with a third dashed line for "Expert."
+The performance decreases sharply as the number of transmissions increases, with "Ptr = 2" initially performing better but ultimately following a similar downward trend as "Ptr = 1."
+
+File: 2008.02400v1-Figure8-1.png
+Description: Network Top-5 Accuracy vs. Device Shift
+This line graph shows "Network Top-5 Accuracy (%)" on the y-axis and "Device Shift" on the x-axis.
+The plot shows a bell-shaped curve, with accuracy peaking near zero shift and declining as the device shift moves further from zero in both directions.
+This suggests that accuracy is highest when device shift is minimal and decreases as shifts increase.
