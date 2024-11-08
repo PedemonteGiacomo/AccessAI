@@ -19,6 +19,14 @@ This folder contains recent images, along with generated captions.
   - **Generated Captions:**  
     - `generated_captions_for_demo.txt`
 
+- **Image:** Youth Soccer  
+  ![Youth Soccer](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Youth-soccer-indiana.jpg/1024px-Youth-soccer-indiana.jpg)
+  - **Description:** A moment captured in youth soccer, highlighting teamwork and active participation in sports.
+
+- **Image:** Teens Sharing a Song  
+  ![Teens Sharing a Song](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Teens_sharing_a_song.jpg/1024px-Teens_sharing_a_song.jpg)
+  - **Description:** A candid moment of teens sharing music, showcasing social bonding through shared interests.
+
 #### Folder: Paper
 
 Images used in non-STEM papers.
@@ -52,6 +60,30 @@ Recent STEM images, primarily figures from scientific publications. These captio
   ![2007.09948v2-Figure13-1](./test/images/STEM/new/2007.09948v2-Figure13-1.png)
 - **Image:** `2008.02400v1-Figure8-1.png`  
   ![2008.02400v1-Figure8-1](./test/images/STEM/new/2008.02400v1-Figure8-1.png)
+
+- **Image:** Coronavirus Structure  
+  ![Coronavirus](https://en.wikipedia.org/wiki/Coronavirus#/media/File:Coronavirus._SARS-CoV-2.png)
+  - **Description:** The structure of the SARS-CoV-2 virus, responsible for COVID-19.
+
+- **Image:** Human Heart Diagram  
+  ![Human Heart Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Diagram_of_the_human_heart_%28cropped%29.svg/1280px-Diagram_of_the_human_heart_%28cropped%29.svg.png)
+  - **Description:** A detailed diagram of the human heart, illustrating its anatomy.
+
+- **Image:** Dolphin Anatomy  
+  ![Dolphin Anatomy](https://en.wikipedia.org/wiki/File:Dolphin_Anatomy.svg)
+  - **Description:** A comprehensive illustration of dolphin anatomy, showcasing key physiological features.
+
+- **Image:** Mature Flower Structure  
+  ![Flower Diagram](https://en.wikipedia.org/wiki/Flower#/media/File:Mature_flower_diagram.svg)
+  - **Description:** A botanical diagram that shows the structure of a mature flower.
+
+- **Image:** Diffusion of Ideas  
+  ![Diffusion of Ideas](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Diffusion_of_ideas.svg/495px-Diffusion_of_ideas.svg.png)
+  - **Description:** Visual representation of the diffusion of ideas, illustrating how concepts spread.
+
+- **Image:** Chesapeake Waterbird Food Web  
+  ![Food Web](https://en.wikipedia.org/wiki/Food_chain#/media/File:Chesapeake_Waterbird_Food_Web.jpg)
+  - **Description:** An ecological diagram showing the food web of waterbirds in Chesapeake Bay.
 
   - **Reference Captions:**  
     - `sciCap-images.txt` (Contains reference captions for these images)
