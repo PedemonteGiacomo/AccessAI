@@ -62,7 +62,7 @@ Recent STEM images, primarily figures from scientific publications. These captio
   ![2008.02400v1-Figure8-1](./test/images/STEM/new/2008.02400v1-Figure8-1.png)
 
 - **Image:** Coronavirus Structure  
-  ![Coronavirus](https://en.wikipedia.org/wiki/Coronavirus#/media/File:Coronavirus._SARS-CoV-2.png)
+  ![Coronavirus](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/800px-Coronavirus._SARS-CoV-2.png)
   - **Description:** The structure of the SARS-CoV-2 virus, responsible for COVID-19.
 
 - **Image:** Human Heart Diagram  
@@ -70,11 +70,11 @@ Recent STEM images, primarily figures from scientific publications. These captio
   - **Description:** A detailed diagram of the human heart, illustrating its anatomy.
 
 - **Image:** Dolphin Anatomy  
-  ![Dolphin Anatomy](https://en.wikipedia.org/wiki/File:Dolphin_Anatomy.svg)
+  ![Dolphin Anatomy](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dolphin_Anatomy.svg/1200px-Dolphin_Anatomy.svg.png)
   - **Description:** A comprehensive illustration of dolphin anatomy, showcasing key physiological features.
 
 - **Image:** Mature Flower Structure  
-  ![Flower Diagram](https://en.wikipedia.org/wiki/Flower#/media/File:Mature_flower_diagram.svg)
+  ![Flower Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mature_flower_diagram.svg/1920px-Mature_flower_diagram.svg.png)
   - **Description:** A botanical diagram that shows the structure of a mature flower.
 
 - **Image:** Diffusion of Ideas  
@@ -82,7 +82,7 @@ Recent STEM images, primarily figures from scientific publications. These captio
   - **Description:** Visual representation of the diffusion of ideas, illustrating how concepts spread.
 
 - **Image:** Chesapeake Waterbird Food Web  
-  ![Food Web](https://en.wikipedia.org/wiki/Food_chain#/media/File:Chesapeake_Waterbird_Food_Web.jpg)
+  ![Food Web](https://upload.wikimedia.org/wikipedia/commons/0/0e/Chesapeake_Waterbird_Food_Web.jpg)
   - **Description:** An ecological diagram showing the food web of waterbirds in Chesapeake Bay.
 
   - **Reference Captions:**  
